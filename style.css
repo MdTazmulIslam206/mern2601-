@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.taz{
+    padding-top: 50px;
+}
+/*---------------- navebar_part------------------ */
+.Creat_01 img{
+    width: 140px;
+}
+.hover01 a:hover{
+    color: blue;
+    box-shadow: 3px 4px 5px red;
+    border-radius: 5px;
+}
